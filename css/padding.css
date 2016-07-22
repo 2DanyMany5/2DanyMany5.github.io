@@ -1,0 +1,11 @@
+#padding {
+    padding: 40px;
+}
+
+#padding-button {
+    padding: 100px;
+}
+
+#success_message {
+    display: none;
+}
